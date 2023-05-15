@@ -1,0 +1,2 @@
+# mexicans
+Detecting neanderthal introgression
